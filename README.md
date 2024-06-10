@@ -6,12 +6,21 @@ This project was created for the University of Adelaide Web Development Coding B
 
 ## Usage
 
-The image belows shows what the note taker site below:
+The image belows shows what the note taker site, here is where you land when you first navigate to the link:
 
+<img src="./images/Screenshot 2024-06-10 at 5.52.25 pm.png" alt="Home Page">
 
+When you click the "Get Started" button you're lead to this page:
 
+<img src="./images/Screenshot 2024-06-10 at 5.52.41 pm.png" alt="Note Page">
 
+When you type in text in the input field button in the top right corner appear: 
 
+<img src="./images/Screenshot 2024-06-10 at 5.53.16 pm.png" alt="Note Page">
+
+Once you click the "Save Note" button the note is saved into the left column:
+
+<img src="./images/Screenshot 2024-06-10 at 5.53.29 pm.png" alt="Note Page">
 
 ## link
 
